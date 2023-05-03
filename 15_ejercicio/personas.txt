@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Tobias
+Apellido: Molina
+------------
+Nombre: Lucas
+Apellido: Dalto
+------------
+Nombre: Matias
+Apellido: Zing
+------------
+Nombre: Camila
+Apellido: Rovetix
+------------
+Nombre: Pedro
+Apellido: Tarado
+------------

@@ -1,0 +1,2 @@
+def adios():
+    print('chau')
