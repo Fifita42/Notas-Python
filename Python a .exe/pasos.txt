@@ -1,0 +1,8 @@
+1)Tener instalada la biblioteca pyinstaller
+2)Abrir cmd y ubicarte en la carpeta raiz de tu archivo .py
+3)Tener en cuenta lo siguiente:
+-F (Todo en 1 archivo)
+-W (Borrar la terminal de window)
+-i icon.ico (agregar un icono personalizado al .exe)
+clock.py (el nombre de tu archivo)
+4)Ingresar: pyinstaller -F -W -i miicono.ico clock.py
